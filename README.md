@@ -10,6 +10,9 @@ I have to work for a production company that specializes in nostalgic styles. Yo
 
 I have been supplied with the dataset netflix_data.csv, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
 
+<img width="835" height="604" alt="image" src="https://github.com/user-attachments/assets/1643f674-83ee-4008-ae95-47ad2514722b" />
+
+
 **Questions Answered**
 
 **1- What was the most frequent movie duration in the 1990s?**
